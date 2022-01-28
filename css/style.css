@@ -1,0 +1,55 @@
+.container {
+	display: flex;
+	flex-direction: column;
+}
+.time {
+	position: relative;
+	color: red;	
+	width: 100%;
+	text-align: center;
+	align-self: center;
+	font-size: 4vw;
+	font-family: "Calibri", cursive;
+	padding: 1px;
+}
+.cdwn {
+	position: relative;
+	background: red;
+	color: white;
+	width: 100%;
+	text-align: center;
+	align-self: center;
+	font-size: 4vw;
+	font-family:"Calibri", cursive; 
+	border: 1px solid orange;
+	overflow: visible;
+	margin-top: 10px;
+}
+.initial {
+	display: initial;
+	position: initial;	
+	width: initial;
+	font-size: 2vw;
+	font-family: initial;
+	margin-bottom : 50px;
+}
+
+@media screen and (max-width: 1100px) {
+	.time {
+		color: green;	
+	}
+	.cdwn {	
+		background: green;
+		border: 1px solid blue;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.time {
+		color: #2D17AB;	
+	}
+	.cdwn {
+		background: #2D17AB;
+		border: 1px solid blue;
+	}
+}
