@@ -1,6 +1,7 @@
 # Responsive_countdown_with_JS
-Responsive countdown with JavaScript, JQuery, HTML and CSS.
+![](Countdown_responsive.jpg)
 
+Responsive countdown with JavaScript, JQuery, HTML and CSS.
 This is a mini project in which you can enter a number of minutes to countdown.
 
 
