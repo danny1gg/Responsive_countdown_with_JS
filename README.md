@@ -1,6 +1,6 @@
 # Responsive_countdown_with_JS
-Responsive countdown with JavaScript, JQuery, HTML and CSS
-This is a mini project in which you can enter a number of minutes to countdown
+Responsive countdown with JavaScript, JQuery, HTML and CSS.
+This is a mini project in which you can enter a number of minutes to countdown.
 
 It's responsive with 3 different color themes:
 -BLUE theme until 800px widh, 
